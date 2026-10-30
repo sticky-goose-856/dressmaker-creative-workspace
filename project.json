@@ -1,0 +1,22 @@
+{
+  "name": "dressmaker-creative-workspace",
+  "displayName": "Dressmaker Creative Workspace",
+  "programType": "creative-workspace",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Project groups",
+    "Design notes",
+    "Workspace profiles"
+  ],
+  "topics": [
+    "dressmaker-creative-workspace",
+    "dressmaker-tools",
+    "dressmaker-menu",
+    "dressmaker-settings",
+    "dressmaker-configs",
+    "dressmaker-project-groups",
+    "dressmaker-design-notes"
+  ]
+}
